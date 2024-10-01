@@ -1,0 +1,9 @@
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/toto-thi/front-end-thesis.git
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/toto-thi/back-end-thesis.git
+[submodule "smart-contract"]
+	path = smart-contract
+	url = https://github.com/toto-thi/smart_contract.git
